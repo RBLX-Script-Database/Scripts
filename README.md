@@ -9,5 +9,7 @@ These scripts are confirmed to work with Synapse but might also work with other 
 ## Contributing
 Any scripts can be added if they don't do harm to the user, no 18+ scripts please.
 
+Please credit the creators of the scripts!
+
 ## Find me on v3rmillion
 [V3rmillion profile](https://v3rmillion.net/member.php?action=profile&uid=189081)
