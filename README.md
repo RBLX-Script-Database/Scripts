@@ -1,2 +1,1 @@
-# Scripts
- Roblox Exploit Scripts
+Roblox scripts used for exploiting
