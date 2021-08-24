@@ -2,7 +2,7 @@
 
 These scripts are confirmed to work with Synapse but might also work with other exploits.
 
-<img src="https://i.imgur.com/xhVJFZX.gif" width="40" height="40" />
+<img src="https://i.imgur.com/xhVJFZX.gif" width="480" height="270" />
 
 
 
