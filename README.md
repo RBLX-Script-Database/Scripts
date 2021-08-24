@@ -2,6 +2,9 @@
 
 These scripts are confirmed to work with Synapse but might also work with other exploits.
 
+![Alt Text](https://i.imgur.com/xhVJFZX.gif)
+
+
 ## Just pull the scripts using Github desktop or by downloading it as a zip file
 
 
