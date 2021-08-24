@@ -1,8 +1,10 @@
 # Roblox Scripts used for Exploiting
 
-These scripts are confirmed to work with Synapse but might also work with other exploits.
+These scripts are confirmed to work with [Synapse](https://x.synapse.to/) but might also work with other exploits.
+Get Synapse at https://x.synapse.to/
 
-<img src="https://i.imgur.com/xhVJFZX.gif" href="https://x.synapse.to/" width="480" height="270" />
+
+<img src="https://i.imgur.com/xhVJFZX.gif" width="480" height="270" />
 
 
 
